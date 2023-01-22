@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgb(221, 221, 230);
+}
+h1,h3
+{
+    margin: 10px;
+}
+.block
+{   
+    background-color: rgb(99, 174, 136);
+    
+}
+.row
+{
+   padding: 5px;
+}
+button
+{
+    
+    width: 80px;
+    height: 100px;
+    cursor: pointer;
+    font-size: 22px;
+    border-radius: 10px;
+    
+}
+.row input
+{
+    width: 330px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 22px;
+    text-align: center;
+    background-color: rgb(221, 221, 230);
+    color: rgb(0, 0, 0);
+}
